@@ -1,0 +1,2 @@
+# HackerRankGo
+Practice HackerRank.
